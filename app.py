@@ -350,6 +350,7 @@ elif page == "Student Recommendation":
 # ===========================================================
 st.markdown("---")
 st.markdown(
-    "<center>© 2025 StudyTrack AI | Designed for Batch-6 Students with ❤️ by Anil Kumar</center>",
+    "<center>© 2025 Study Track AI Based Student Study Habit Recommender | Designed ❤️ by Anil Kumar</center>",
     unsafe_allow_html=True
 )
+
